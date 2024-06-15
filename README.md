@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @daniel-carvalho-agile
 - 👀 I’m interested in learn API, microservices.
 - 🌱 I’m currently learning API, Rest, Node.js
-- 💞️ I’m looking to collaborate on fintechs as a Product Manager/Owner.
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate as a Product Manager/Owner.
+- 📫 How to reach me: danielcfc@live.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I had a Kiss cover band.
 
