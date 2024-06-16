@@ -1,9 +1,9 @@
 .bgSizeCover {
     background-image: url(https://github.com/daniel-carvalho-agile/daniel-carvalho-agile/blob/main/letter.png);
     background-size: cover;
-    width: 160px;
-    height: 160px;
-    border: 2px solid;
+    width: 1920px;
+    height: 1080px;
+    border: 1px solid;
     resize: both;
     overflow: scroll;
   }
