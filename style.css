@@ -1,9 +1,9 @@
 .bgSizeCover {
     background-image: url(https://i.ibb.co/W3LP9GG/letter.png);
     background-size: cover;
-    width: 1920px;
-    height: 1080px;
-    border: 1px solid;
+    width: 1280px;
+    height: 720px;
+    border: 0px;
     resize: both;
     overflow: scroll;
   }
