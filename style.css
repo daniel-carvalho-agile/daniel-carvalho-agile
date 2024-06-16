@@ -6,4 +6,6 @@
   border: 0px;
   resize: both;
   transform: scale(1.10);
+  overflow-x: hidden;  
+  overflow-y: hidden;  
 }
