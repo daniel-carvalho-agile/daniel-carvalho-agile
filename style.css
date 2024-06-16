@@ -5,7 +5,7 @@
   height: auto;
   border: 0px;
   resize: both;
-  transform: scale(1.10);
+  transform: scale(1.0);
   overflow-x: hidden;  
   overflow-y: hidden;  
 }
