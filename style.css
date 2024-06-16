@@ -1,0 +1,9 @@
+.bgSizeCover {
+  background-image: url(https://i.ibb.co/TWvwJLw/letter.png);
+  background-size: cover;
+  width: 1280px;
+  height: auto;
+  border: 0px;
+  resize: both;
+  transform: scale(1.10);
+}
